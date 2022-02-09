@@ -30,6 +30,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereMyAnagramsAt", "src\Wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginationHelper", "src\PaginationHelper\PaginationHelper.csproj", "{C8188EED-3392-4B26-ACE8-E26C4F3237F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make a spiral", "src\Make a spiral\Make a spiral.csproj", "{D6A4784D-426B-43C6-8C55-0288E8355F93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Next bigger number with the same digits", "src\Next bigger number with the same digits\Next bigger number with the same digits.csproj", "{0B120D3C-37E9-4394-99DC-83D2CED806EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +96,14 @@ Global
 		{C8188EED-3392-4B26-ACE8-E26C4F3237F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8188EED-3392-4B26-ACE8-E26C4F3237F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8188EED-3392-4B26-ACE8-E26C4F3237F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A4784D-426B-43C6-8C55-0288E8355F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A4784D-426B-43C6-8C55-0288E8355F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A4784D-426B-43C6-8C55-0288E8355F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A4784D-426B-43C6-8C55-0288E8355F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B120D3C-37E9-4394-99DC-83D2CED806EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B120D3C-37E9-4394-99DC-83D2CED806EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B120D3C-37E9-4394-99DC-83D2CED806EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B120D3C-37E9-4394-99DC-83D2CED806EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CA3B424D-C991-445D-AE90-D4C1DE13171C} = {387B9CFA-B417-4A57-9D9E-BD28E0FEBBE3}
@@ -108,5 +120,7 @@ Global
 		{B0888979-21EE-4BAE-BA8E-10D89D0A6269} = {387B9CFA-B417-4A57-9D9E-BD28E0FEBBE3}
 		{D87CC768-66DF-4A27-9A05-5F8AD1A7FA91} = {387B9CFA-B417-4A57-9D9E-BD28E0FEBBE3}
 		{C8188EED-3392-4B26-ACE8-E26C4F3237F3} = {387B9CFA-B417-4A57-9D9E-BD28E0FEBBE3}
+		{D6A4784D-426B-43C6-8C55-0288E8355F93} = {387B9CFA-B417-4A57-9D9E-BD28E0FEBBE3}
+		{0B120D3C-37E9-4394-99DC-83D2CED806EC} = {387B9CFA-B417-4A57-9D9E-BD28E0FEBBE3}
 	EndGlobalSection
 EndGlobal
