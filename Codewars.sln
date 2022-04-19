@@ -52,6 +52,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Palindromic Substring", "src\Longest Palindromic Substring\Longest Palindromic Substring.csproj", "{A2FF489A-3165-44EB-AE27-8AC7D7BFA064}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Integer", "src\Reverse Integer\Reverse Integer.csproj", "{E2A3BEE6-4EB7-43FB-8A78-57FB7C07DC7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,6 +152,10 @@ Global
 		{A2FF489A-3165-44EB-AE27-8AC7D7BFA064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2FF489A-3165-44EB-AE27-8AC7D7BFA064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2FF489A-3165-44EB-AE27-8AC7D7BFA064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A3BEE6-4EB7-43FB-8A78-57FB7C07DC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A3BEE6-4EB7-43FB-8A78-57FB7C07DC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A3BEE6-4EB7-43FB-8A78-57FB7C07DC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2A3BEE6-4EB7-43FB-8A78-57FB7C07DC7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CA3B424D-C991-445D-AE90-D4C1DE13171C} = {387B9CFA-B417-4A57-9D9E-BD28E0FEBBE3}
@@ -177,5 +183,6 @@ Global
 		{20F226B0-ACF6-4748-97BA-943AFD4EE7EC} = {AB14962F-A235-47A5-98AC-D6FEFE2E40F9}
 		{6FC66E30-419E-4581-BB1E-3E0D9D0785D7} = {AB14962F-A235-47A5-98AC-D6FEFE2E40F9}
 		{A2FF489A-3165-44EB-AE27-8AC7D7BFA064} = {AB14962F-A235-47A5-98AC-D6FEFE2E40F9}
+		{E2A3BEE6-4EB7-43FB-8A78-57FB7C07DC7D} = {AB14962F-A235-47A5-98AC-D6FEFE2E40F9}
 	EndGlobalSection
 EndGlobal
