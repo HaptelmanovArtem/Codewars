@@ -14,7 +14,7 @@
 
         public static int MinimumValueSum(int[] nums, int[] andValues)
         {
-            numsLength = nums.Length;
+/*            numsLength = nums.Length;
             andValuesLength = andValues.Length;
 
             for (int i = 0; i < numsLength; i++)
@@ -28,7 +28,7 @@
 
             int ans = Calculate(nums, andValues, 0, 0, bitSets);
 
-            return ans < maxValue ? ans : -1;
+            return ans < maxValue ? ans : -1;*/
         }
 
         public static int MinimumValueSumV2(int[] nums, int[] andValues)
