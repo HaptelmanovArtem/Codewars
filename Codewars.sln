@@ -1,69 +1,74 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{387B9CFA-B417-4A57-9D9E-BD28E0FEBBE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectPangram", "src\DetectPangram\DetectPangram.csproj", "{CA3B424D-C991-445D-AE90-D4C1DE13171C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DetectPangram", "src\DetectPangram\DetectPangram.csproj", "{CA3B424D-C991-445D-AE90-D4C1DE13171C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheDivisors", "src\FindTheDivisors\FindTheDivisors.csproj", "{BD48A9B9-CC0E-402B-A6A5-89B868ECF103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheDivisors", "src\FindTheDivisors\FindTheDivisors.csproj", "{BD48A9B9-CC0E-402B-A6A5-89B868ECF103}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinningWords", "src\SpinningWords\SpinningWords.csproj", "{99F28F99-A60A-4251-B19D-9BB91FBACE22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpinningWords", "src\SpinningWords\SpinningWords.csproj", "{99F28F99-A60A-4251-B19D-9BB91FBACE22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoLikesIt", "src\WhoLikesIt\WhoLikesIt.csproj", "{4201EFE0-42DA-40CF-B9CD-0E81F737CA19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhoLikesIt", "src\WhoLikesIt\WhoLikesIt.csproj", "{4201EFE0-42DA-40CF-B9CD-0E81F737CA19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Break camelCase", "src\Break camelCase\Break camelCase.csproj", "{752430F1-BAED-4CAC-8315-976B7D758A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Break camelCase", "src\Break camelCase\Break camelCase.csproj", "{752430F1-BAED-4CAC-8315-976B7D758A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rot13", "src\Rot13\Rot13.csproj", "{1E351C5A-CFED-4B1C-8A19-5199ED283270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rot13", "src\Rot13\Rot13.csproj", "{1E351C5A-CFED-4B1C-8A19-5199ED283270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateEncoder", "src\DuplicateEncoder\DuplicateEncoder.csproj", "{0D102D87-2A47-4255-B526-4CE939566525}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuplicateEncoder", "src\DuplicateEncoder\DuplicateEncoder.csproj", "{0D102D87-2A47-4255-B526-4CE939566525}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Pig Latin", "src\Simple Pig Latin\Simple Pig Latin.csproj", "{51E1ABE7-B043-45AA-9404-7101ABAF9270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Pig Latin", "src\Simple Pig Latin\Simple Pig Latin.csproj", "{51E1ABE7-B043-45AA-9404-7101ABAF9270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingZerosToTheEnd", "src\MovingZerosToTheEnd\MovingZerosToTheEnd.csproj", "{D6D87D86-9B8B-4823-BD6B-2369DC99F81B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovingZerosToTheEnd", "src\MovingZerosToTheEnd\MovingZerosToTheEnd.csproj", "{D6D87D86-9B8B-4823-BD6B-2369DC99F81B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueInOrder", "src\UniqueInOrder\UniqueInOrder.csproj", "{A01072B6-26EA-495D-BFE0-3AD949D86D79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueInOrder", "src\UniqueInOrder\UniqueInOrder.csproj", "{A01072B6-26EA-495D-BFE0-3AD949D86D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StripComments", "src\StripComments\StripComments.csproj", "{A15AA8B5-81C6-45EE-9EB4-E7BEF57AC91A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StripComments", "src\StripComments\StripComments.csproj", "{A15AA8B5-81C6-45EE-9EB4-E7BEF57AC91A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTravel", "src\BestTravel\BestTravel.csproj", "{B0888979-21EE-4BAE-BA8E-10D89D0A6269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTravel", "src\BestTravel\BestTravel.csproj", "{B0888979-21EE-4BAE-BA8E-10D89D0A6269}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhereMyAnagramsAt", "src\WhereMyAnagramsAt\WhereMyAnagramsAt.csproj", "{D87CC768-66DF-4A27-9A05-5F8AD1A7FA91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhereMyAnagramsAt", "src\WhereMyAnagramsAt\WhereMyAnagramsAt.csproj", "{D87CC768-66DF-4A27-9A05-5F8AD1A7FA91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginationHelper", "src\PaginationHelper\PaginationHelper.csproj", "{C8188EED-3392-4B26-ACE8-E26C4F3237F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaginationHelper", "src\PaginationHelper\PaginationHelper.csproj", "{C8188EED-3392-4B26-ACE8-E26C4F3237F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make a spiral", "src\Make a spiral\Make a spiral.csproj", "{D6A4784D-426B-43C6-8C55-0288E8355F93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Make a spiral", "src\Make a spiral\Make a spiral.csproj", "{D6A4784D-426B-43C6-8C55-0288E8355F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Next bigger number with the same digits", "src\Next bigger number with the same digits\Next bigger number with the same digits.csproj", "{0B120D3C-37E9-4394-99DC-83D2CED806EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Next bigger number with the same digits", "src\Next bigger number with the same digits\Next bigger number with the same digits.csproj", "{0B120D3C-37E9-4394-99DC-83D2CED806EC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "leetcode", "leetcode", "{AB14962F-A235-47A5-98AC-D6FEFE2E40F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "src\TwoSum\TwoSum.csproj", "{0DC60943-3B89-4FD5-92B2-246907BB9E6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "src\TwoSum\TwoSum.csproj", "{0DC60943-3B89-4FD5-92B2-246907BB9E6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers", "src\Add Two Numbers\Add Two Numbers.csproj", "{6BB96011-EE4D-4E86-96C0-1F8D45EFB837}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Two Numbers", "src\Add Two Numbers\Add Two Numbers.csproj", "{6BB96011-EE4D-4E86-96C0-1F8D45EFB837}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sql", "sql", "{4F4C4036-46EA-474B-9077-7E92B676C223}"
 	ProjectSection(SolutionItems) = preProject
 		combineTables.sql = combineTables.sql
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Even Numbers After Queries", "src\Sum of Even Numbers After Queries\Sum of Even Numbers After Queries.csproj", "{1A332DBE-3CE0-4B15-A389-F8D9AF48F0A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of Even Numbers After Queries", "src\Sum of Even Numbers After Queries\Sum of Even Numbers After Queries.csproj", "{1A332DBE-3CE0-4B15-A389-F8D9AF48F0A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Median of Two Sorted Arrays", "src\Median of Two Sorted Arrays\Median of Two Sorted Arrays.csproj", "{20F226B0-ACF6-4748-97BA-943AFD4EE7EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Median of Two Sorted Arrays", "src\Median of Two Sorted Arrays\Median of Two Sorted Arrays.csproj", "{20F226B0-ACF6-4748-97BA-943AFD4EE7EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepeatingCharacters", "src\LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj", "{6FC66E30-419E-4581-BB1E-3E0D9D0785D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithoutRepeatingCharacters", "src\LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj", "{6FC66E30-419E-4581-BB1E-3E0D9D0785D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Palindromic Substring", "src\Longest Palindromic Substring\Longest Palindromic Substring.csproj", "{A2FF489A-3165-44EB-AE27-8AC7D7BFA064}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Palindromic Substring", "src\Longest Palindromic Substring\Longest Palindromic Substring.csproj", "{A2FF489A-3165-44EB-AE27-8AC7D7BFA064}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Integer", "src\Reverse Integer\Reverse Integer.csproj", "{E2A3BEE6-4EB7-43FB-8A78-57FB7C07DC7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Integer", "src\Reverse Integer\Reverse Integer.csproj", "{E2A3BEE6-4EB7-43FB-8A78-57FB7C07DC7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group Anagrams", "src\Group Anagrams\Group Anagrams.csproj", "{A0C3B43F-332C-4657-8657-B2294E511EFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Group Anagrams", "src\Group Anagrams\Group Anagrams.csproj", "{A0C3B43F-332C-4657-8657-B2294E511EFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String to Integer ATOI", "src\String to Integer ATOI\String to Integer ATOI.csproj", "{684BB569-104E-4D05-A8D3-FFFAA96FA3EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String to Integer ATOI", "src\String to Integer ATOI\String to Integer ATOI.csproj", "{684BB569-104E-4D05-A8D3-FFFAA96FA3EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Number", "src\Palindrome Number\Palindrome Number.csproj", "{CF3C667B-CF75-4828-88A0-97C04D7B99A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Number", "src\Palindrome Number\Palindrome Number.csproj", "{CF3C667B-CF75-4828-88A0-97C04D7B99A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regular Expression Matching", "src\Regular Expression Matching\Regular Expression Matching.csproj", "{32F6A563-5710-4E7F-AFFC-4E8DE20623A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Regular Expression Matching", "src\Regular Expression Matching\Regular Expression Matching.csproj", "{32F6A563-5710-4E7F-AFFC-4E8DE20623A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Removing Minimum and Maximum From Array", "src\Removing Minimum and Maximum From Array\Removing Minimum and Maximum From Array.csproj", "{83ACB7CE-43B3-4AD7-BCB0-2F57495E15E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Removing Minimum and Maximum From Array", "src\Removing Minimum and Maximum From Array\Removing Minimum and Maximum From Array.csproj", "{83ACB7CE-43B3-4AD7-BCB0-2F57495E15E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "General", "General\General.csproj", "{563F1572-4FDB-4EAF-8C4E-74043842A5F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +188,13 @@ Global
 		{83ACB7CE-43B3-4AD7-BCB0-2F57495E15E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83ACB7CE-43B3-4AD7-BCB0-2F57495E15E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83ACB7CE-43B3-4AD7-BCB0-2F57495E15E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563F1572-4FDB-4EAF-8C4E-74043842A5F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563F1572-4FDB-4EAF-8C4E-74043842A5F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563F1572-4FDB-4EAF-8C4E-74043842A5F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563F1572-4FDB-4EAF-8C4E-74043842A5F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CA3B424D-C991-445D-AE90-D4C1DE13171C} = {387B9CFA-B417-4A57-9D9E-BD28E0FEBBE3}
@@ -215,5 +227,9 @@ Global
 		{CF3C667B-CF75-4828-88A0-97C04D7B99A2} = {AB14962F-A235-47A5-98AC-D6FEFE2E40F9}
 		{32F6A563-5710-4E7F-AFFC-4E8DE20623A1} = {AB14962F-A235-47A5-98AC-D6FEFE2E40F9}
 		{83ACB7CE-43B3-4AD7-BCB0-2F57495E15E6} = {AB14962F-A235-47A5-98AC-D6FEFE2E40F9}
+		{563F1572-4FDB-4EAF-8C4E-74043842A5F3} = {AB14962F-A235-47A5-98AC-D6FEFE2E40F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D015EE1E-43F4-4E79-B019-A8F7D10DACD6}
 	EndGlobalSection
 EndGlobal
