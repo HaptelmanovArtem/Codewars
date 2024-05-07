@@ -1,9 +1,11 @@
 ﻿using General;
 
-var result = MinimumSumOfValuesByDividingArray.MinimumValueSum(
-    [4, 8, 2, 9],
-    [0, 0]);
+Console.WriteLine("Run1");
 
-Console.WriteLine(result);
+var res = new LargestSquareAreaProblem().LargestSquareArea(
+    [[1, 4], [1, 1], [3, 8]],
+    [[6, 9], [6, 4], [8, 10]]);
+
+Console.WriteLine(res);
 
 return;
