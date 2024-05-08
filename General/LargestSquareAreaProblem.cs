@@ -7,9 +7,9 @@
     {
         public long LargestSquareArea(int[][] bottomLeft, int[][] topRight)
         {
-            var maximumArea = 0;
+            long maximumArea = 0;
 
-            for (int i = 0; i < bottomLeft.Length - 1; i++)
+            for (int i = 0; i < bottomLeft.Length; i++)
             {
                 for (int j = i + 1; j < topRight.Length; j++)
                 {
@@ -31,8 +31,7 @@
                         continue;
                     }
 
-                    var side = Math.Min(xRight - xLeft, yTop - yBottom);
-
+                    long side = Math.Min(xRight - xLeft, yTop - yBottom);
                     maximumArea = Math.Max(maximumArea, side * side);
                 }
             }
