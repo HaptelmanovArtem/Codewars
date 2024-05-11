@@ -7,7 +7,6 @@ namespace General
     /// https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/
     /// </summary>
     
-    // Breadth first search
     public class SerializeAndDeserializeBinaryTree
     {
         /// Depth First Search with preorder
