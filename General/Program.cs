@@ -2,7 +2,8 @@
 
 Console.WriteLine("Run1");
 
-var ss = new GameOfLife();
-ss.GameOfLifeSolution([[0, 1, 0], [0, 0, 1], [1, 1, 1], [0, 0, 0]]);
+var ss = new WordPatternSln();
+
+Console.WriteLine(ss.WordPattern("abba", "dog dog dog dog"));
 
 return;
