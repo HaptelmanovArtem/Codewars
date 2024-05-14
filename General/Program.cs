@@ -2,8 +2,8 @@
 
 Console.WriteLine("Run1");
 
-var ss = new WordPatternSln();
+var ss = new ContainsDuplicateSln();
 
-Console.WriteLine(ss.WordPattern("abba", "dog dog dog dog"));
+ss.ContainsDuplicateSort([1, 2, 3, 1]);
 
 return;
