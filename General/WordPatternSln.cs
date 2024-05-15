@@ -1,4 +1,6 @@
-﻿namespace General
+﻿using System.Collections.Generic;
+
+namespace General
 {
     /// <summary>
     /// https://leetcode.com/problems/word-pattern/description/

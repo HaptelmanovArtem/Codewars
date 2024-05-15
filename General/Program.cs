@@ -2,8 +2,8 @@
 
 Console.WriteLine("Run1");
 
-var ss = new ContainsDuplicateSln();
+var ss = new TopKFrequentElementsSln();
 
-ss.ContainsDuplicateSort([1, 2, 3, 1]);
+var res = ss.TopKFrequent([1], 1);
 
 return;
