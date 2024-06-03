@@ -2,8 +2,8 @@
 
 Console.WriteLine("Run1");
 
-var ss = new TopKFrequentElementsSln();
+var ss = new ProductOfArrayExceptSelf();
 
-var res = ss.TopKFrequent([1], 1);
+ss.ProductExceptSelfV2([2, 3, 5, 0]);
 
 return;
