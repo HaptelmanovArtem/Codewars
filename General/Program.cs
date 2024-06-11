@@ -1,9 +1,12 @@
 ﻿using General;
 
-Console.WriteLine("Run1");
+var ss = new MinStack();
 
-var ss = new ProductOfArrayExceptSelf();
+ss.Push(-2);
+ss.Push(0);
+ss.Push(-3);
 
-ss.ProductExceptSelfV2([2, 3, 5, 0]);
+ss.Pop();
+var min = ss.GetMin();
 
 return;
