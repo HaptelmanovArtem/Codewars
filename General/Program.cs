@@ -1,12 +1,7 @@
 ﻿using General;
 
-var ss = new MinStack();
+var ss = new GenerateParenthesisSln();
 
-ss.Push(-2);
-ss.Push(0);
-ss.Push(-3);
-
-ss.Pop();
-var min = ss.GetMin();
+var min = ss.GenerateParenthesis(3);
 
 return;
