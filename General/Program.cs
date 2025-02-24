@@ -1,7 +1,7 @@
 ﻿using General;
 
-var ss = new GenerateParenthesisSln();
+var ss = new MissingNumber();
 
-var min = ss.GenerateParenthesis(3);
+var min = ss.MissingNumber_xor([0, 1, 3]);
 
 return;
