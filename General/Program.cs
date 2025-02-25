@@ -1,7 +1,7 @@
 ﻿using General;
 
-var ss = new MissingNumber();
+var ss = new Solution();
 
-var min = ss.MissingNumber_xor([0, 1, 3]);
+var min = ss.CarFleet(10, [6, 8], [3, 2]);
 
 return;
