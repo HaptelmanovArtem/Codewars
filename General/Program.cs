@@ -2,6 +2,6 @@
 
 var ss = new Solution();
 
-var min = ss.LargestRectangleAreaStack([2, 1, 5, 6, 2, 3]);
+var min = ss.IsPalindrome("A man, a plan, a canal: Panama");
 
 return;
